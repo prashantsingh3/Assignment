@@ -1,0 +1,8 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.wrapper {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto;
+}
